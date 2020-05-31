@@ -1,3 +1,14 @@
+# BOOTCAMP 2020:
+Assignment 2: Initialize a React app automated with Github Actions workflow
+
+Wepage: http://a2-react-bootcamp-usman.surge.sh/
+
+
+///////////////////////////////////////
+Automated Message below
+///////////////////////////////////////
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
